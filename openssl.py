@@ -1,2 +1,2 @@
 NAME = "OpenSSL"
-VERSION = 1.5
+VERSION = 1.6
